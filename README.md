@@ -1,1 +1,1 @@
-Test git
+This is the first project.
